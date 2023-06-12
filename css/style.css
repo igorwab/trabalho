@@ -1,0 +1,54 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+    font-size: 28px;
+  }
+  
+  h2 {
+    color: #555;
+    font-size: 24px;
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  footer {
+    margin-top: 50px;
+    text-align: center;
+    color: #777;
+  }
+  
+
+img{
+    width: 120px;
+    height: 120px;
+}
+
+.voltar{
+    border: 1px solid red;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    color: blue;
+}
+
+.voltar:hover{
+    background: pink;
+}
